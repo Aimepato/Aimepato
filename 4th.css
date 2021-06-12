@@ -1,0 +1,110 @@
+.mynavigation {
+    float:right;
+    border:1px solid solid black;
+    background-color: black;
+    opacity: 0.6;
+   
+ }
+ 
+ 
+ ul  li {
+   float: left;
+   width: 100px;
+   text-transform: capitalize;
+   padding: 16px 30px;
+   list-style-type: none;
+   text-decoration: none;
+   font-family: 'Times New Roman', Times, serif;
+   margin-right: 1px;
+    margin-left: 1px;
+ }
+ 
+ 
+ ul li a {
+   text-decoration: none;
+   color: white;
+   
+ }
+ 
+ul li a:hover {
+   color: orange;
+   
+ }
+strong{
+    color: orange;
+    border-bottom: 2px solid orange;
+    font-weight: normal;
+}
+.list{
+    background-color: black;
+    background-repeat: no-repeat;
+    height: 550px;
+    width: 350px;
+   
+    top: 50%;
+}
+.list ol li {
+
+    color: rgb(255, 94, 1);
+    text-shadow:white;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 20px;
+    top: 50%;
+}
+body{
+    background: black;
+    background-size: 70%;
+}
+h1{
+    color:black;
+    background-color: ;
+    opacity: 0.7;
+    text-shadow: orange;
+    text-transform: capitalize;
+    top: 30%;
+    left: 2%;
+}
+font{
+    color:orange;
+    text-transform: capitalize;
+
+}
+.content{
+    position: absolute;
+    float: left;
+    left: 37%;
+    top: 10%;
+    text-shadow: 2px 2px 15px white;
+    text-align: center;
+
+}  
+h5{
+    font-size: 50px;
+    color: orange;
+    font-family: califonian FB, sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 15px black;
+}      
+font{
+    color: white;
+    opacity: 0.3;
+} 
+.icon{
+   
+    font-size: 25px;
+    color:white;
+    font-family: 'Times New Roman', Times,serif;
+    position: absolute; 
+    left: 2%;
+    text-shadow: 2px 2px 15px orange;
+}
+span{
+    color: orange;
+}
+p{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}

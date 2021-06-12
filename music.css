@@ -1,0 +1,151 @@
+
+          
+
+.mynavigation {
+    float:right;
+    border:1px solid solid black;
+    background-color: black;
+    opacity: 0.6;
+   
+ }
+ 
+ 
+ ul  li {
+   float: left;
+   width: 100px;
+   text-transform: capitalize;
+   padding: 16px 30px;
+   list-style-type: none;
+   text-decoration: none;
+   font-family: 'Times New Roman', Times, serif;
+   margin-right: 1px;
+    margin-left: 1px;
+ }
+ 
+ 
+ ul li a {
+   text-decoration: none;
+   color: white;
+   
+ }
+ 
+ul li a:hover {
+   color: orange;
+   
+ }
+strong{
+    color: orange;
+    border-bottom: 2px solid orange;
+    font-weight: normal;
+}
+ 
+body{
+    background: linear-gradient(rgba(0,0,0,0.68),rgba(0,0,0,0.50)),url(headphones.jpg)no-repeat;
+    background-size: cover;
+}
+ 
+ .cover{
+            text-align:center;
+            border: 3px solid black;
+            width: 300px;
+            height: 450px;
+            position: absolute;
+            left: 10%;
+            top: 20%;
+            border-radius: 10px;
+            box-shadow: 0px 0px 20px 10px;
+           
+               }
+ .subcover{
+            border-bottom: 1px solid none;
+            background:black;
+            width: 300px;
+            height: 450px;
+            opacity: 0.5;
+            border-radius: 8px;
+     
+ } 
+ .coverimage{
+     text-align: center;
+
+ }   
+ img{
+     border-radius: 20px;
+     position: absolute;
+     left: 20%;
+     top: 10%;
+     margin: -10px -9px;
+     opacity: 0.7;
+ } 
+.content{
+    position: absolute;
+    left: 35%;
+    top: 20%;
+
+}  
+h5{
+    font-size: 50px;
+    color: orange;
+    font-family: califonian FB, sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 15px black;
+}      
+font{
+    color: white;
+    opacity: 0.3;
+} 
+h6{
+    font-size: 16px;
+    color: white;
+    font-family: califonian FB, sans-serif;
+    font-weight: normal;
+    margin-top:-16%;
+    opacity: 0.5;
+    word-spacing: 6px;
+    text-align: justify;
+    width: 550px;
+
+}
+.button{
+    position: absolute;
+    left: 35%;
+    top: 70%;
+
+}
+input[type="submit"]{
+    padding: 10px;
+    border: black;
+    color: white;
+    border-radius: 4px;
+    background-color: orange;
+
+
+}
+input[type="submit"]:hover{
+    background-color: black;
+    color: orange;
+}.icon{
+   
+    font-size: 25px;
+    color:white;
+    font-family: 'Times New Roman', Times,serif;
+    position: absolute; 
+    left: 2%;
+    text-shadow: 2px 2px 15px orange;
+}
+span{
+    color: orange;
+}
+ 
+h4{
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    position: absolute;
+    left: 30%;
+    top: 80%;
+    text-shadow: 2px 2px 15px orange;
+
+
+}  
